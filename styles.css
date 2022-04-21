@@ -1,0 +1,33 @@
+* {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Formatação do menu */
+
+#menu {
+    display: inline-block;
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu li {
+    display: inline-block;
+}
+
+
+.logos {
+    display: inline-block;
+    width: 120px;
+    margin: 15px 5px 5px 5px;
+}
+
+.icons {
+    width: 15px;
+}
+
+#perfil-1 {
+    width: 25px;
+    border-radius: 15px;
+}
